@@ -2,12 +2,11 @@
 title: >-
   Conference announcement | Best Practices for Dynamics365 Portal Deployments |
   22-23 October 2019 | Brussels
-date: 2019-09-18T20:37:02.649Z
+date: 2019-10-24T20:37:02.649Z
 description: >-
   Join me at #D365Focus and consider to attend my session on 'Best Practices for
   Dynamics365 Portal Deployments' among 2 full days of deep-dive sessions! 
 image: /img/focus-logo-d365-dc_full-color.png
-draft: false
 ---
 Join me at #D365Focus and consider to attend my session on 'Best Practices for Dynamics365 Portal Deployments' among 2 full days of deep-dive sessions! 
 
