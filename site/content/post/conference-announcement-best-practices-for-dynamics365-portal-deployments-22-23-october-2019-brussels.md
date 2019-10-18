@@ -10,6 +10,8 @@ image: /img/focus-logo-d365-dc_full-color.png
 ---
 Join me at #D365Focus and consider to attend my session on 'Best Practices for Dynamics365 Portal Deployments' among 2 full days of deep-dive sessions! 
 
+*****
+
 The session will cover the following topics.
 
 > Project Ramp-up - Advanced techniques:
@@ -21,8 +23,6 @@ The session will cover the following topics.
 * Requirements
 * (Fit-Gap Analysis)
 * Project Staffing
-
-
 
 > Design Principles:
 >
@@ -44,8 +44,6 @@ The session will cover the following topics.
 * Publishing States
 * Satisfying regulatory demands (GDPR, Consent, Cookies)
 
-
-
 > Deployment:
 >
 > Managing your Portals across environments.
@@ -55,25 +53,21 @@ The session will cover the following topics.
 * Full
 * Incremental
 
-
-
 > Debugging:
 >
 > Do you run a healthy Portal implementation?
 
 * Application Insights
 * Error Logging to Azure Blob
+* Advance your Portals Expertise:
+* This is how you stay on top of the game.
 
-> Advance your Portals Expertise:
->
-> This is how you stay on top of the game.
->
 > Community: Who, what & where to follow
->
-> Things I do differently today (Schema vs. Metadata)
->
-> Q&A
 
+* Things I do differently today (Schema vs. Metadata)
+* Q&A
+
+*****
 
 
 You can find more details regarding the D365 Focus conference at this [Link](https://www.ugfocus.com/home?utm_source=Speaker&utm_medium=social%20media&utm_campaign=D365Focus).
