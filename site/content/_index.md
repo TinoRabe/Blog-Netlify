@@ -5,7 +5,7 @@ subtitle: >-
   Dynamics 365 and Portals
 image: /img/ashkan-forouzani-zsy6suvzxfo-unsplash.jpg
 intro:
-  heading: I will blog about
+  heading: A personal blog
   text: >-
     Leassons Learned, Configuration Examples, Tips and Tricks, Conference
     Sessions. Enjoy my posts from the daily life as a functional Consultant in the
