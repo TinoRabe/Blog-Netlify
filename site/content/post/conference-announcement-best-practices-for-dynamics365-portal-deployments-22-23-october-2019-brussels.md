@@ -7,6 +7,7 @@ description: >-
   Join me at #D365Focus and consider to attend my session on 'Best Practices for
   Dynamics365 Portal Deployments' among 2 full days of deep-dive sessions! 
 image: /img/focus-logo-d365-dc_full-color.png
+draft: true
 ---
 Join me at #D365Focus and consider to attend my session on 'Best Practices for Dynamics365 Portal Deployments' among 2 full days of deep-dive sessions! 
 
