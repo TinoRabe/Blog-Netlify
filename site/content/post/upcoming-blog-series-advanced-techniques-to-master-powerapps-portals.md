@@ -8,7 +8,9 @@ description: >-
   made and take your Portal projects to the next level. Learn, share & enjoy.
 image: /img/announcement.jpg
 ---
-Why should you follow this blog series? Find out what's in it for you:
+Why should you follow this blog series? 
+
+Find out what's in it for you:
 
 > Project Ramp-up:
 >
