@@ -5,7 +5,10 @@ description: >-
   Follow this blog for a dedicated series on best practices to advance your
   Power Portals practice. I will be sharing my experience of the last 3+ years
   as a functional consultant in multiple Portals projects. Avoid the mistakes I
-  made and take your Portal projects to the next level. Learn, share & enjoy.
+  made and take your Portal projects to the next level. The series will cover
+  topics that have been presented on 23rd October 2019 at D365 Focus Europe
+  conference in Brussel. If you were not able to join, this is the place to be.
+  Learn, share & enjoy!
 image: /img/announcement.jpg
 ---
 Why should you follow this blog series? 
