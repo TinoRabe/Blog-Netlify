@@ -10,7 +10,7 @@ image: /img/announcement.jpg
 ---
 Why should you follow this blog series? 
 
-Find out what's in it for you:
+Find out, what's in it for you:
 
 > Project Ramp-up:
 >
@@ -68,6 +68,6 @@ Find out what's in it for you:
 > This is how you stay on top of the game.
 
 * Community: Who, what & where to follow
-* Things I do differently today 
+* Things I do differently today - Mistake to avoid 
 
 *****
