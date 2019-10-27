@@ -3,8 +3,7 @@ title: 'PowerApps Portals Project Ramp-Up: Provisioning (Templates)'
 date: 2019-10-28T06:00:19.751Z
 description: >-
   In this post you will advance your knowledge around considerations for
-  choosing the right template for your customers. You will also find some
-  valuable insights for licensing your Portals solution.
+  choosing the right template for your customers.
 image: /img/template.jpg
 ---
 > tl;dr
