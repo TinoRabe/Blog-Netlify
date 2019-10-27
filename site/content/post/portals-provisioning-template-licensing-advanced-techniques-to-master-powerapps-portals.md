@@ -7,6 +7,20 @@ description: >-
   valuable insights for licensing your Portals solution.
 image: /img/template.jpg
 ---
+> tl;dr
+
+**(1)** Recap: If you want to use Portals template,have at least one Dynamics 365 App in your environment
+
+**(2)** Recap: Templates dictate, which schema & configuration data will be deployed to your environment
+
+**(3)** Best practice: Choose template wisely - no migration path supported officially
+
+**(4)** Best practice: Start with Community Portal template
+
+**(5)** Fit / Gap analysis of features between template & requirements is vital
+
+**(6)** Triple-check applicability of Partner Portal template
+
 > Templates - Provisioning of PowerApss Portals
 
 As of the publishing date of this post, is it generally possible to leverage pre-built Portals templates with dedicated feature. 
@@ -42,4 +56,4 @@ If you can be certain to never use the community features and only need customer
 
 * Partner Portal looks good on paper  but can get you in trouble
 
-In my experience, the Partner Portal always looks like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities - sorry, computer says no.
+In my experience, the Partner Portal always looks like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities? Sorry, computer says no.
