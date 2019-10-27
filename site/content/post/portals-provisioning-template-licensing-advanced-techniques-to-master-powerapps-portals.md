@@ -8,7 +8,7 @@ image: /img/template.jpg
 ---
 > tl;dr
 
-**(1)** Recap: If you want to use Portals template,have at least one Dynamics 365 App in your environment
+**(1)** Recap: If you want to use Portals template, have at least one Dynamics 365 App in your environment
 
 **(2)** Recap: Templates dictate, which schema & configuration data will be deployed to your environment
 
@@ -16,18 +16,18 @@ image: /img/template.jpg
 
 **(4)** Best practice: Start with Community Portal template
 
-**(5)** Fit / Gap analysis of features between template & requirements is vital
+**(5)** Best Practice: Fit / Gap analysis of features between template & requirements is vital
 
-**(6)** Triple-check applicability of Partner Portal template
+**(6)** Best Practice: Triple-check applicability of Partner Portal template
 
 > Templates - Provisioning of PowerApss Portals
 
 As of the publishing date of this post, is it generally possible to leverage pre-built Portals templates with dedicated feature. 
-Whenever you wish to applpy such template, it is currently necessary to have at least one qualified Dynamics 365 license (i.e. Dynamics 365 first party model-driven App, such as Sales or Customer Service or Field Service etc.) in your Power Platform tenant ([reference to public documentation](https://docs.microsoft.com/en-us/powerapps/maker/portals/create-dynamics-portal)). This is likely to change in the future, but today that's status quo.
+Whenever you wish to apply such template, it is currently necessary to have at least one qualified Dynamics 365 license (i.e. Dynamics 365 first party model-driven App, such as Sales or Customer Service or Field Service etc.) in your Power Platform tenant ([reference](https://docs.microsoft.com/en-us/powerapps/maker/portals/create-dynamics-portal)). 
 
-If you do not have such a Dynamics 365 license in your Power Platform tenant, you will not see the templates when creating a new PowerApps Portal. In this case, you will only have the option to create a custom Portals from scratch ('from blank'; ([reference to public documentation](https://docs.microsoft.com/en-us/powerapps/maker/portals/create-portal)).
+If you do not have such a Dynamics 365 license in your Power Platform tenant, you will not see the templates when creating a new PowerApps Portal. In this case, you will only have the option to create a Starter Portal from scratch ('from blank'; [reference](https://docs.microsoft.com/en-us/powerapps/maker/portals/create-dynamics-portal)).
 
-The following illustration should help you to navigate through your options:
+The following illustration shall help you to navigate through your options:
 
 ![Overview of Access to Templates for PowerApps Portals](/img/overview_portals-templates.jpg "Overview of Access to Templates for PowerApps Portals")
 
@@ -38,9 +38,9 @@ Let's assume you want to leverage a template, so you may choose from one of the 
 3. Employee Self-Service-Portal
 4. Community Portal
 
-The features of each template are well documented in this [link](https://docs.microsoft.com/en-us/powerapps/maker/portals/portal-templates). To recap, the choice of template will dictate the schema (i.e. solutions, incl. entities/forms/views/plugin/workflows/etc.) and data (i.e. configuration) that will be installed by Microsoft. What the documentation does not suggest is some best practices around templates.
+The features of each template are well documented in this [link](https://docs.microsoft.com/en-us/powerapps/maker/portals/portal-templates). To recap, the choice of template will dictate the schema (i.e. solutions, incl. entities/forms/views/plugin/workflows/etc.) and data (i.e. configuration) that will be installed by Microsoft. 
 
-I found these tips useful in customer facing projects:
+What the documentation does not suggest is some best practices around templates. I found these considerations useful in customer-facing projects:
 
 * No migration path between templates
 
@@ -55,4 +55,14 @@ If you can be certain to never use the community features and only need customer
 
 * Partner Portal looks good on paper  but can get you in trouble
 
-In my experience, the Partner Portal always looks like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities? Sorry, computer says no.
+In my experience, the Partner Portal always looks like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities?
+
+![Computer says no](/img/computer-says-no-1.jpg "Computer says no")
+
+- - -
+
+Found this post useful or have comments?\
+[Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
+
+
+> Let's have a closer look at the licensing of Portals in the next blog post - stay tuned.
