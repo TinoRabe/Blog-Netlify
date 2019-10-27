@@ -25,6 +25,18 @@ Let's assume you want to leverage a template, so you may choose from one of the 
 3. Employee Self-Service-Portal
 4. Community Portal
 
-The features of each template are well documented in this [link](https://docs.microsoft.com/en-us/powerapps/maker/portals/portal-templates).
+The features of each template are well documented in this [link](https://docs.microsoft.com/en-us/powerapps/maker/portals/portal-templates). To recap, the choice of template will dictate the schema (i.e. solutions, incl. entities/forms/views/plugin/workflows/etc.) and data (i.e. configuration) that will be installed by Microsoft. What the documentation does not suggest is some best practices around templates.
 
-What the documentation does not suggest is some best practices around the provisiosning with t emplate
+I found these tips useful in customer facing projects:
+
+* No migration path between templates
+
+Choose your template wisely as there is currently no supported migration path between templates available from Microsoft. There are some undocumented workarounds possible technically, but try to avoid to go down that road whenever possible.
+
+* 80/20 rule: Community Portal
+
+In 80% of the cases, the Community Portal template will do the job and give enough flexibility for future requirements. This template essentially is an extension of the Customer Self-Service template plus useful community features, i.e. blogs and forums. I have been involved in Dynamics 365 Portals projects where the Portal was provisioned with the Customer Self-Service template. After some month and as soon as the users really adopted the Portal, the customer wished to leverage forums, so his user base would be enabled to build communities for troubleshooting on their own in forums. 
+
+If you can be certain to never use the community features and only need customer service functionalities, the Customer Self-Service template may be your way to go. Always keep in mind that pages can be hidden and maybe exposed again at a later point in time.
+
+* 
