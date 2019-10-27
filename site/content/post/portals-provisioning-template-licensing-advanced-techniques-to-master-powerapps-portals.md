@@ -55,7 +55,7 @@ If you can be certain to never use the community features and only need customer
 
 * Partner Portal looks good on paper  but can get you in trouble
 
-In my experience, the Partner Portal always looks like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities?
+In my experience, the Partner Portal can look like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities?
 
 ![Computer says no](/img/computer-says-no-1.jpg "Computer says no")
 
