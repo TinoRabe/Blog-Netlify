@@ -20,7 +20,7 @@ image: /img/template.jpg
 
 **(6)** Best Practice: Triple-check applicability of Partner Portal template
 
-> Templates - Provisioning of PowerApss Portals
+> Templates - Provisioning of PowerApps Portals
 
 As of the publishing date of this post, is it generally possible to leverage pre-built Portals templates with dedicated feature. 
 Whenever you wish to apply such template, it is currently necessary to have at least one qualified Dynamics 365 license (i.e. Dynamics 365 first party model-driven App, such as Sales or Customer Service or Field Service etc.) in your Power Platform tenant ([reference](https://docs.microsoft.com/en-us/powerapps/maker/portals/create-dynamics-portal)). 
