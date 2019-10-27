@@ -31,7 +31,8 @@ I found these tips useful in customer facing projects:
 
 * No migration path between templates
 
-Choose your template wisely as there is currently no supported migration path between templates available from Microsoft. There are some undocumented workarounds possible technically, but try to avoid to go down that road whenever possible.
+Choose your template wisely as there is currently no supported migration path between templates
+ available from Microsoft. There are some undocumented workarounds possible technically, but try to avoid to go down that road whenever possible.
 
 * 80/20 rule: Community Portal
 
@@ -39,4 +40,6 @@ In 80% of the cases, the Community Portal template will do the job and give enou
 
 If you can be certain to never use the community features and only need customer service functionalities, the Customer Self-Service template may be your way to go. Always keep in mind that pages can be hidden and maybe exposed again at a later point in time.
 
-* 
+* Partner Portal looks good on paper  but can get you in trouble
+
+In my experience, the Partner Portal always looks like an excellent template in sales projects, but in the long run, there was always one shortcoming: customization of the built-in features. The template gives great value if the requirements do not vary from the standard. But as soon as you aim to customize those features, you could be in trouble as **you have no access to the server-side code**, i.e. the code to those template-specific functionalities. Want to customize the distribution logic of opportunities - sorry, computer says no.
