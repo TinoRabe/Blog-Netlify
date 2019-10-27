@@ -1,7 +1,5 @@
 ---
-title: >-
-  Portals Provisioning (Template / Licensing) - Advanced Techniques to master
-  PowerApps Portals
+title: 'PowerApps Portals Project Ramp-Up: Provisioning (Template / Licensing)'
 date: 2019-10-28T06:00:19.751Z
 description: >-
   In this post you will advance your knowledge around considerations for
