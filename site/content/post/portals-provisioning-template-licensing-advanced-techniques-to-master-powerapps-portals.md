@@ -25,4 +25,6 @@ Let's assume you want to leverage a template, so you may choose from one of the 
 3. Employee Self-Service-Portal
 4. Community Portal
 
-The features of each template are well documented in this link.
+The features of each template are well documented in this [link](https://docs.microsoft.com/en-us/powerapps/maker/portals/portal-templates).
+
+What the documentation does not suggest is some best practices around the provisiosning with t emplate
