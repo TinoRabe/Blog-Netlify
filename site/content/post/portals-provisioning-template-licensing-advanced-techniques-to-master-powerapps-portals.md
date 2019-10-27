@@ -1,6 +1,6 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Provisioning (Templates)'
-date: 2019-10-28T06:00:19.751Z
+date: 2019-10-27T15:50:19.751Z
 description: >-
   In this post you will advance your knowledge around considerations for
   choosing the right template for your customers, so you can ramp-up your
