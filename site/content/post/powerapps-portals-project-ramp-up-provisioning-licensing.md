@@ -26,6 +26,6 @@ As of the publishing date of this post, there a great differences among the poss
 * PowerApps environment **without** Dynamics 365 model-driven apps
 * Dynamics 365 model-driven app, i.e. PowerApps environment **with** a Dynamics 365 model-driven apps
 
-In this first post, I have not written about a third option for a new Portal implementation. That is the Community edition of Portals.
+In this first post, I have not written about a third option for a new Portal implementation. [That is the Community edition of Portals.](https://github.com/Adoxio/xRM-Portals-Community-Edition)
 
 The Community edition of Portals is an open-source version of the Portal framework. Historically, Microsoft was kind to publish a certain version (v8.x) of the framework after Adxstudio was acquired and the framework was made available as an add-on application to your Dynamics 365 environment. Naturally, the framework for Dynamics 365 Portals has evolved since then, but the Community edition shall not be forgotten in any of your considerations. So if you are looking to get your hands-on the framework and maybe host it locally or maybe on Azure, you can absolutely do that. The Community edition comes wit a MIT license. Still pay attention to potential hosting costs, so your calculation of running costs is accurate.
