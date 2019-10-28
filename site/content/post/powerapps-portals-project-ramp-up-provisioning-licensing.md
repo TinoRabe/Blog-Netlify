@@ -63,6 +63,9 @@ As of today, there is a transition period, so both Portals types (PowerApps Port
 Remarks:
 Big thank and kudos to the following MVPs, who answered my questions towards the co-existence between mentioned Portals license schemes:
 
+* Mark Smith ([Twitter](https://twitter.com/nz365guy))
+* Nick Doelman ([Twitter](https://twitter.com/readyxrm))
+* Jukkan Niiranen ([Twitter](https://twitter.com/jukkan))
 
 
 
@@ -70,6 +73,5 @@ Big thank and kudos to the following MVPs, who answered my questions towards the
 
 Found this post useful or have comments?\
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
-
 
 > Let's have a closer look at the licensing of Portals in the next blog post - stay tuned.
