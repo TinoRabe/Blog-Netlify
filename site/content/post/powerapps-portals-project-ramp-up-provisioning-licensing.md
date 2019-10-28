@@ -25,3 +25,7 @@ As of the publishing date of this post, there a great differences among the poss
 
 * PowerApps environment **without** Dynamics 365 model-driven apps
 * Dynamics 365 model-driven app, i.e. PowerApps environment **with** a Dynamics 365 model-driven apps
+
+In this first post, I have not written about a third option for a new Portal implementation. That is the Community edition of Portals.
+
+The Community edition of Portals is an open-source version of the Portal framework. Historically, Microsoft was kind to publish a certain version (v8.x) of the framework after Adxstudio was aquired and the framework was made available as an add-on appliction to your Dynamics 365 environment. Naturally, the framework for Dynamics 365 Portals has evolved since then, but the Community edition shall not be forgotten in any of your considerations.
