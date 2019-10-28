@@ -21,9 +21,9 @@ image: /img/license.jpg
 
 > Licenses- Provisioning of PowerApps Portals
 
-As of the publishing date of this post, there a great differences among the possibilities to license your Portal implementation. Here is a simple comparison of options, which might help you understand your options:
+As of the publishing date of this post, there a great differences among the possibilities to license your Portal implementation. Here is a simple illustration, which might help you understand your options:
 
-
+![Licensing Comparison](/img/licensingcomparison.jpg "Licensing Comparison")
 
 As outlined in my previous post ([PowerApps Portal Templates](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/)), you are able to provision your portal in a: 
 
@@ -34,13 +34,9 @@ In this first post, I have not written about a third option for a new Portal imp
 
 The Community edition of Portals is an open-source version of the Portal framework. Historically, Microsoft was kind to publish a certain version (v8.x) of the framework after Adxstudio was acquired and the framework was made available as an add-on application to your Dynamics 365 environment. Naturally, the framework for Dynamics 365 Portals has evolved since then, but the Community edition shall not be forgotten in any of your considerations. So if you are looking to get your hands-on the framework and maybe host it locally or maybe on Azure, you can absolutely do that. The Community edition comes wit a MIT license. Still pay attention to potential hosting costs, so your calculation of running costs is accurate.
 
-
-
 Ok, let's have a look at the different pricing models for PowerApps Portals by Microsoft.
 
 First off all and as of today, PowerApps Portals are licensed differently to Dynamics 365 Portals. That means, if you provision a PowerApps Portal from a PowerApps environment without a Dynamics 365 model-driven app, your Portal will be licensed by consumption. 
-
-
 
 Essentially, that means the following for PowerApps Portals w/o Dynamics 365 apps:
 
@@ -50,8 +46,6 @@ Essentially, that means the following for PowerApps Portals w/o Dynamics 365 app
 
 Pricing for mentioned capacity add-ons of PowerApps Portals are listed here: [PowerApps and Microsoft Flow licensing FAQ](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq#can-you-share-more-details-regarding-the-new-powerapps-portals-licensing) and in the [current licensing guide](https://go.microsoft.com/fwlink/?linkid=2085130).
 
-
-
 Furthermore, that means the following for PowerApps Portals with Dynamics 365 apps:
 
 1. If you've met an applicable threshold of required Dynamics 365 licenses in your tenant, you are entitled to a single Dynamics 365 Portal. The access to this Portal (unauthenticated & authenticated) does not need to be licensed via capacity add-ons in the same way as PowerApps Portals  need to be.
@@ -59,8 +53,6 @@ Furthermore, that means the following for PowerApps Portals with Dynamics 365 ap
 
 Pricing for additional Dynamics 365 Portals instances are listed here: [PowerApps and Microsoft Flow licensing FAQ](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq#can-you-share-more-details-regarding-the-new-powerapps-portals-licensing) and in the [current licensing guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409). 
 
-
 > Transition Period for Dynamics 365 Portals
-
 
 As of today, there is a transition period, so both Portals types (PowerApps Portals & Dynamics 365 Portals) live side by side. Hence, it is still possible to provision a Dynamics 365 Portal today (i.e. after 1st October 2019), that will not need any capacity add-on for authenticated/unauthenticated users). Simply by leveraging a Dynamics 365 model-driven app in your PowerApps environment. When this transition period will end is not transparent to me. How the existing Dynamics 365 Portal licenses will be transitioned to PowerApps Portals capacity model after that period is also not visible to me. But I sure will give an update in this post.
