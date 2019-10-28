@@ -1,6 +1,6 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Provisioning (Licensing)'
-date: 2019-11-01T06:00:46.488Z
+date: 2019-10-30T06:00:46.488Z
 description: >-
   In this post you will advance your knowledge around considerations for
   choosing the right license for your customers, so you can ramp-up your
