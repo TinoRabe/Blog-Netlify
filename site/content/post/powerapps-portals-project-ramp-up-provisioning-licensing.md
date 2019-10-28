@@ -19,9 +19,13 @@ image: /img/license.jpg
 
 **(5)** Best Practice: Consider self-hosted Community Portal for evaluation in larger project teams
 
-> Templates - Provisioning of PowerApps Portals
+> Licenses- Provisioning of PowerApps Portals
 
-As of the publishing date of this post, there a great differences among the possibilities to license your Portal implementation. As outlined in my previous post ([PowerApps Portal Templates](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/)), you are able to provision your portal in a: 
+As of the publishing date of this post, there a great differences among the possibilities to license your Portal implementation. Here is a simple comparison of options, which might help you understand your options:
+
+
+
+As outlined in my previous post ([PowerApps Portal Templates](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/)), you are able to provision your portal in a: 
 
 * PowerApps environment **without** Dynamics 365 model-driven apps
 * Dynamics 365 model-driven app, i.e. PowerApps environment **with** a Dynamics 365 model-driven apps
@@ -45,3 +49,18 @@ Essentially, that means the following for PowerApps Portals w/o Dynamics 365 app
 3. If you want external users to consume you PowerApps Portal content, that is not secured via authentication, they will be considered as unauthenticated external users.
 
 Pricing for mentioned capacity add-ons of PowerApps Portals are listed here: [PowerApps and Microsoft Flow licensing FAQ](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq#can-you-share-more-details-regarding-the-new-powerapps-portals-licensing) and in the [current licensing guide](https://go.microsoft.com/fwlink/?linkid=2085130).
+
+
+
+Furthermore, that means the following for PowerApps Portals with Dynamics 365 apps:
+
+1. If you've met an applicable threshold of required Dynamics 365 licenses in your tenant, you are entitled to a single Dynamics 365 Portal. The access to this Portal (unauthenticated & authenticated) does not need to be licensed via capacity add-ons in the same way as PowerApps Portals  need to be.
+2. Any additional Dynamics 365 Portal will be licensed by instance, not by consumption.
+
+Pricing for additional Dynamics 365 Portals instances are listed here: [PowerApps and Microsoft Flow licensing FAQ](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq#can-you-share-more-details-regarding-the-new-powerapps-portals-licensing) and in the [current licensing guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409). 
+
+
+> Transition Period for Dynamics 365 Portals
+
+
+As of today, there is a transition period, so both Portals types (PowerApps Portals & Dynamics 365 Portals) live side by side. Hence, it is still possible to provision a Dynamics 365 Portal today (i.e. after 1st October 2019), that will not need any capacity add-on for authenticated/unauthenticated users). Simply by leveraging a Dynamics 365 model-driven app in your PowerApps environment. When this transition period will end is not transparent to me. How the existing Dynamics 365 Portal licenses will be transitioned to PowerApps Portals capacity model after that period is also not visible to me. But I sure will give an update in this post.
