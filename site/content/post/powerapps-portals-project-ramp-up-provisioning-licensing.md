@@ -48,9 +48,10 @@ Pricing for mentioned capacity add-ons of PowerApps Portals are listed here: [Po
 
 Furthermore, that means the following for Dynamics 365 Portals with Dynamics 365 apps:
 
-1. Once an applicable threshold of required Dynamics 365 licenses in your tenant is met, you are entitled to a single Dynamics 365 Portal. The access to this Portal (unauthenticated & authenticated) does not need to be licensed via capacity add-ons in the same way as PowerApps Portals need to be.
-2. Any additional Dynamics 365 Portal will be licensed by instance, not by consumption.
-3. There are some other restrictions for certain kind of authenticated users, so study the licensing guide carefully.
+1. Once an applicable threshold of required Dynamics 365 licenses in your tenant is met, you are entitled to a single Dynamics 365 Portal. 
+2. The public access to this Portal (unauthenticated & authenticated) does not need to be licensed via capacity add-ons in the same way as PowerApps Portals need to.
+3. Any additional Dynamics 365 Portal will be licensed by instance, not by consumption.
+4. There are some other restrictions for certain kind of authenticated users, so study the licensing guide carefully.
 
 Pricing for additional Dynamics 365 Portals instances are listed here: [PowerApps and Microsoft Flow licensing FAQ](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq#can-you-share-more-details-regarding-the-new-powerapps-portals-licensing) and in the [current licensing guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409). 
 
