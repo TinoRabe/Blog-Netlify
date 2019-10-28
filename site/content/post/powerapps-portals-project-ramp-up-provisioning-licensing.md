@@ -59,3 +59,11 @@ Your calculations must be accurate as this kind of Portals provisioning my drive
 > Transition Period for Dynamics 365 Portals
 
 As of today, there is a transition period, so both Portals types (PowerApps Portals & Dynamics 365 Portals) live side by side. Hence, it is still possible to provision a Dynamics 365 Portal today (i.e. after 1st October 2019), that will not need any capacity add-on for authenticated/unauthenticated users). Simply by leveraging a Dynamics 365 model-driven app in your PowerApps environment. When this transition period will end is not transparent to me. How the existing Dynamics 365 Portal licenses will be transitioned to PowerApps Portals capacity model after that period is also not transparent to me. But I sure will give an update in this post, once I gain clarity.
+
+- - -
+
+Found this post useful or have comments?\
+[Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
+
+
+> Let's have a closer look at the licensing of Portals in the next blog post - stay tuned.
