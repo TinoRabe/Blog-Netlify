@@ -13,7 +13,7 @@ image: /img/license.jpg
 
 **(2)** Recap: PowerApps Portals are licensed via a consumption model (i.e. number of authenticated logins & number of unauthenticated page views)
 
-**(3)** Recap: Dynamics 365 Portals are licensed via an availability level (i.e. number of provisioned instances)
+**(3)** Recap: Dynamics 365 Portals are licensed via an availability model (i.e. number of provisioned instances)
 
 **(4)** Best Practice: Consider leveraging Dynamics 365 Portals in transition period for more efficient pricing in some scenarios today
 
