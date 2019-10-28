@@ -21,4 +21,7 @@ image: /img/license.jpg
 
 > Templates - Provisioning of PowerApps Portals
 
-As of the publishing date of this post, there a great differences among the possibilities to license your Portal implementation. As outlined in my previous post ([PowerApps Portal Templates](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/)),
+As of the publishing date of this post, there a great differences among the possibilities to license your Portal implementation. As outlined in my previous post ([PowerApps Portal Templates](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/)), you are able to provision your portal in a: 
+
+* PowerApps environment **without** Dynamics 365 model-driven apps
+* Dynamics 365 model-driven app, i.e. PowerApps environment **with** a Dynamics 365 model-driven apps
