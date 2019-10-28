@@ -30,9 +30,9 @@ As outlined in my previous post ([PowerApps Portal Templates](https://tinorabe.c
 * **PowerApps Portal**: PowerApps environment **without** Dynamics 365 model-driven apps
 * **Dynamics 365 Portal**: PowerApps environment **with** a Dynamics 365 model-driven apps
 
-In this first post, I have not written about a third option for a new Portal implementation. [That is the Community edition of Portals.](https://github.com/Adoxio/xRM-Portals-Community-Edition)
+In this first post regarding templates, I have not written about a third option for any new Portal implementation. [That is the Community edition of Portals.](https://github.com/Adoxio/xRM-Portals-Community-Edition)
 
-The Community edition of Portals is an open-source version of the Portal framework. Historically, Microsoft was kind to publish a certain version (v8.x) of the framework after Adxstudio was acquired and the framework was made available as an add-on application to your Dynamics 365 environment. Naturally, the framework for Dynamics 365 Portals has evolved since then, but the Community edition shall not be forgotten in any of your considerations. So if you are looking to get your hands on the framework and maybe host it locally / on Azure, you can absolutely do that. The Community edition comes wit a MIT license. Still pay attention to potential hosting costs, so your calculation of running costs is accurate.
+The Community edition of Portals is an open-source version of the Portal framework. Historically, Microsoft was kind to publish a certain version (v8.x) of the framework after Adxstudio was acquired and the framework was made available as an add-on application to your Dynamics 365 environment. Naturally, the framework for Dynamics 365 Portals has evolved since then, but the Community edition shall not be forgotten in any of your considerations. So if you are looking to get your hands on the framework and maybe host it on Azure, you can absolutely do that. The Community edition comes wit a MIT license. Still pay attention to potential hosting costs, so your calculation of running costs is accurate.
 
 Ok, let's have a look at the different pricing models for PowerApps Portals by Microsoft. I am counting Dynamics 365 Portals into that same bucket, as frontiers are blending and the actual product (= provisioned Portal) does not differ from one another in functionality).
 
@@ -48,7 +48,7 @@ Pricing for mentioned capacity add-ons of PowerApps Portals are listed here: [Po
 
 Furthermore, that means the following for Dynamics 365 Portals with Dynamics 365 apps:
 
-1. Once an applicable threshold of required Dynamics 365 licenses in your tenant is met, you are entitled to a single Dynamics 365 Portal. The access to this Portal (unauthenticated & authenticated) does not need to be licensed via capacity add-ons in the same way as PowerApps Portals  need to be.
+1. Once an applicable threshold of required Dynamics 365 licenses in your tenant is met, you are entitled to a single Dynamics 365 Portal. The access to this Portal (unauthenticated & authenticated) does not need to be licensed via capacity add-ons in the same way as PowerApps Portals need to be.
 2. Any additional Dynamics 365 Portal will be licensed by instance, not by consumption.
 3. There are some other restrictions for certain kind of authenticated users, so study the licensing guide carefully.
 
@@ -58,10 +58,10 @@ Your calculations must be accurate as this kind of Portals provisioning my drive
 
 > Transition Period for Dynamics 365 Portals
 
-As of today, there is a transition period, so both Portals types (PowerApps Portals & Dynamics 365 Portals) live side by side. Hence, it is still possible to provision a Dynamics 365 Portal today (i.e. after 1st October 2019), that will not need any capacity add-on for authenticated/unauthenticated users). Simply by leveraging a Dynamics 365 model-driven app in your PowerApps environment. When this transition period will end is not transparent to me. How the existing Dynamics 365 Portal licenses will be transitioned to PowerApps Portals capacity model after that period is also not transparent to me. But I sure will give an update in this post, once I gain clarity.
+As of today, there is a transition period, so both Portals types (PowerApps Portals & Dynamics 365 Portals) live side by side. Hence, it is still possible to provision a Dynamics 365 Portal today (i.e. after 1st October 2019), that will not need any capacity add-on for authenticated/unauthenticated users). Simply by leveraging a Dynamics 365 model-driven app in your PowerApps environment. When this transition period will end, is not transparent to me. How the existing Dynamics 365 Portal licenses will be transitioned to PowerApps Portals capacity model after that period, is also not transparent to me. But I will give an update in this post, once I gained clarity.
 
 Remarks:
-Big thank and kudos to the following MVPs, who answered my questions towards the co-existence between mentioned Portals license schemes:
+**Big thanks and kudos** to the following MVPs, who answered my questions upfront towards the co-existence between mentioned Portals license schemes:
 
 * Mark Smith ([Twitter](https://twitter.com/nz365guy))
 * Nick Doelman ([Twitter](https://twitter.com/readyxrm))
@@ -74,4 +74,4 @@ Big thank and kudos to the following MVPs, who answered my questions towards the
 Found this post useful or have comments?\
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
 
-> Let's have a closer look at the licensing of Portals in the next blog post - stay tuned.
+> Let's have a closer look at best practices for a resilient Application Lifecycle Management (ALM) strategy in the next blog post - stay tuned.
