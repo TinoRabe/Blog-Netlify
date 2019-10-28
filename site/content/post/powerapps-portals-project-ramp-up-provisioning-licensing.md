@@ -15,7 +15,7 @@ image: /img/license.jpg
 
 **(3)** Recap: Dynamics 365 Portals are licensed via an availability level (i.e. number of provisioned instances)
 
-**(4)** Best Practice: Consider leveraging Dynamics 365 Portals for efficient pricing in some scenarios
+**(4)** Best Practice: Consider leveraging Dynamics 365 Portals in transition period for more efficient pricing in some scenarios today
 
 **(5)** Best Practice: Consider self-hosted Community Portal for evaluation in larger project teams
 
