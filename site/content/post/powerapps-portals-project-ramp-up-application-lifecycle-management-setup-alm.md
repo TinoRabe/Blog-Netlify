@@ -7,7 +7,7 @@ description: >-
   Learn how to structure your environment in dependency of the Portals project
   type. I will share best practices that I have come across based on actual
   experience from customer-facing Portals projects. This post will give pros and
-  cons for individual ALM setup concepts. Build knowledge to reflect, consult
+  cons for individual ALM setup strategies. Build knowledge to reflect, consult
   and decide on the ALM setup today to drive a professional Portals projects.
 image: /img/alm.jpg
 ---
@@ -35,4 +35,8 @@ Almost in every project, the ALM setup strategy led to some discussion in the be
 
 Now let's deep dive into each pillar of the setup:
 
-1. Sandbox: Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment.
+1. **Sandbox:** Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment.
+
+2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a first unit test along some regression testing shall not be forgotten in this environment.
+
+3. TEST: Deploy you customizations and perform another unit test along some regression testing
