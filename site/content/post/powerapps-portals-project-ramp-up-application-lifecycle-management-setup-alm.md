@@ -37,6 +37,8 @@ Now let's deep dive into each pillar of the setup:
 
 1. **Sandbox:** Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment.
 
-2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a first unit test along some regression testing shall not be forgotten in this environment.
+2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a unit test along some regression testing shall be executed by the implementing team in this environment.
 
-3. **TEST**: Deploy your customization and perform another unit test along some regression testing. Maybe your project requires some integration with 3rd party systems - TEST is a great environment to test those integrations.
+3. **TEST**: Deploy your customization and let another testing party (e.g. your dedicated internal test team) perform the same unit tests along some regression testing. Maybe your project requires some integration with 3rd party systems- that is a great environment to test those integrations and to learn by the progress you are making, so the final integration with productive data can run as smoothly as possible. 
+
+4. QA (Quality Assurance): Analogous to TEST, delivered requirements will be tested here. In contrast though, the customer will be the testing party this time.
