@@ -32,3 +32,7 @@ In my years as a functional consultant, I have come worked in projects of differ
 Almost in every project, the ALM setup strategy led to some discussion in the beginning of the project. In their essence, these discussions and considerations are not particularly unique to PowerApps Portals projects, but rather to software delivery projects in general. Still, I always bring this topic up in the very beginning of the project and too often the ALM setup strategy has not been considered deep enough by the customer. Hence, I feel this is a crucial factor to a healthy project. Let's start with projects at enterprise scale. Here's a sample illustration, which should not be anything new to you:
 
 ![ALM setup Enterprise](/img/alm-enterprise.jpg "ALM setup Enterprise")
+
+Now let's deep dive into each pillar of the setup:
+
+1. Sandbox: Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment.
