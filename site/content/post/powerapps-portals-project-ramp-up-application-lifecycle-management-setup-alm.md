@@ -39,4 +39,4 @@ Now let's deep dive into each pillar of the setup:
 
 2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a first unit test along some regression testing shall not be forgotten in this environment.
 
-3. TEST: Deploy you customizations and perform another unit test along some regression testing
+3. **TEST**: Deploy your customization and perform another unit test along some regression testing. Maybe your project requires some integration with 3rd party systems - TEST is a great environment to test those integrations.
