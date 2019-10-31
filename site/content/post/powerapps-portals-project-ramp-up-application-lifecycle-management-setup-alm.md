@@ -29,4 +29,6 @@ In my years as a functional consultant, I have come worked in projects of differ
 * Small-Medium sized Business
 * One Man Business
 
-Almost in every project, the ALM setup strategy led to some discussion in the beginning of the project. In their essence, these discussions and considerations are not particularly unique to PowerApps Portals projects, but rather to software delivery projects in general. Still, I always bring this topic up in the very beginning of the project and too often the ALM setup strategy has not been considered deep enough by the customer. Hence, I feel this is a crucial factor to a healthy project. Let's start with projects at enterprise scale. Here's a sample illustration, whichshould not be anything new to you:
+Almost in every project, the ALM setup strategy led to some discussion in the beginning of the project. In their essence, these discussions and considerations are not particularly unique to PowerApps Portals projects, but rather to software delivery projects in general. Still, I always bring this topic up in the very beginning of the project and too often the ALM setup strategy has not been considered deep enough by the customer. Hence, I feel this is a crucial factor to a healthy project. Let's start with projects at enterprise scale. Here's a sample illustration, which should not be anything new to you:
+
+![ALM setup Enterprise](/img/alm-enterprise.jpg "ALM setup Enterprise")
