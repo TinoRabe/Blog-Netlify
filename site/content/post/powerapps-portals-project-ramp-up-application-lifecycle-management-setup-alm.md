@@ -40,5 +40,5 @@ Now let's deep dive into each pillar of the setup:
 2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a unit test along some regression testing shall be executed by the implementing team in this environment.
 
 3. **TEST**: Deploy your customization and let another testing party (e.g. your dedicated internal test team) perform the same unit tests along some regression testing. Maybe your project requires some integration with 3rd party systems- that is a great environment to test those integrations and to learn by the progress you are making, so the final integration with productive data can run as smoothly as possible. 
-
-4. QA (Quality Assurance): Analogous to TEST, delivered requirements will be tested here. In contrast though, the customer will be the testing party this time.
+   ****
+4. **QA (Quality Assurance)**: Analogous to TEST, delivered requirements will be tested here. In contrast though, the customer will be the testing party this time. Invite relevant testing stakeholders to this environment and gather their feedback. Examples: Functional requirements, such as features or user experiences, can be tested by the business. Critical security mechanisms and features can be tested by the IT. Consider QA to deliver training to your customer and maybe let the customer train their user base by themselves in QA.
