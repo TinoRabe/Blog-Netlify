@@ -29,7 +29,7 @@ In my years as a functional consultant, I have come worked in projects of differ
 * Small-Medium sized Business
 * One Man Business
 
-Almost in every project, the ALM setup strategy led to some discussion in the beginning of the project. In their essence, these discussions and considerations are not particularly unique to PowerApps Portals projects, but rather to software delivery projects in general. Still, I always bring this topic up in the very beginning of the project and too often the ALM setup strategy has not been considered deep enough by the customer. Hence, I feel this is a crucial factor to a healthy project. Let's start with projects at enterprise scale. Here's a sample illustration, which should not be anything new to you:
+Almost in every project, the ALM setup strategy led to some discussion in the beginning of the project. In their essence, these discussions and considerations are not particularly unique to PowerApps Portals projects, but rather to software delivery projects in general. Still, I always bring this topic up in the very beginning of the project and too often the ALM setup strategy has not been considered deep enough by the customer. Hence, I feel this is a crucial factor to a healthy project. This is my personal opinion among many opinions out there. Microsoft has just released a [guidance for efficient environment setup strategies on the PowerPlatform](https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/) themselves - give it a read and maybe find a model in between that works best for your project. Let's start with projects at enterprise scale. Here's a sample illustration, which should not be anything new to you:
 
 ![ALM setup Enterprise](/img/alm-enterprise.jpg "ALM setup Enterprise")
 
@@ -40,5 +40,5 @@ Now let's deep dive into each pillar of the setup:
 2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a unit test along some regression testing shall be executed by the implementing team in this environment.
 
 3. **TEST**: Deploy your customization and let another testing party (e.g. your dedicated internal test team) perform the same unit tests along some regression testing. Maybe your project requires some integration with 3rd party systems- that is a great environment to test those integrations and to learn by the progress you are making, so the final integration with productive data can run as smoothly as possible. 
-   ****
+
 4. **QA (Quality Assurance)**: Analogous to TEST, delivered requirements will be tested here. In contrast though, the customer will be the testing party this time. Invite relevant testing stakeholders to this environment and gather their feedback. Examples: Functional requirements, such as features or user experiences, can be tested by the business. Critical security mechanisms and features can be tested by the IT. Consider QA to deliver training to your customer and maybe let the customer train their user base by themselves in QA.
