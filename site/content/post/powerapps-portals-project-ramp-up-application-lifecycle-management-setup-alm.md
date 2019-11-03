@@ -37,7 +37,7 @@ Almost in every project, the ALM setup strategy led to some discussion in the be
 
 ![ALM setup Enterprise](/img/alm-enterprise.jpg "ALM setup Enterprise")
 
-Now let's deep dive into each pillar of the setup:
+Now let's deep dive into each pillar of the scale at enterprise setup:
 
 1. **Sandbox:** Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment. At any point consider to push a customization or even a copy from your DEV environment to Sandbox, to have a more realistic base for your PoCs.
 2. **DEV (Development)**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a unit test along some regression testing shall be executed by the implementing team in this environment. Consider how to package solution artifacts, so you can deliver and develop them independently from on another. DEV shall always be the only environment, where you make actual customization, such as schema or configuration changes for your PowerApps Portal. All subsequent environments should only be supplied with customization via deployments and ideally should not be done manually.
