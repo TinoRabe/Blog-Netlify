@@ -55,3 +55,11 @@ Let's look at a ALM setup strategy for SMB businesses, which may not require suc
 ![ALM setup No Project](/img/alm-no-project.jpg "ALM setup No Project")
 
 Last but not least there is what I call the 'No Project' ALM setup strategy, wich consists of a single instance to do it all. I am sure, everybody knows that this is not a desirable strategy, but I have worked in projects where the customer explicitly agreed to the risks involved and 'dictated' this strategy. I highly recommend you not to go down this path. The customer may argument that another instance my drive costs and that this may not give essential benefits to the solution. This argumentation falls short if you look at the sunken costs if just any bug/training/customization has to be dealt with along the daily production operation and something goes just slightly wrong. Technically, it is possible to mimic a dedicated/separated area in a PowerApps Portal by leveraging various security mechanisms.  This approach is usually requested by very small customers, e.g. one person company, from my experience. Still, I always try to convince them to have at least a dedicated DEV environment. I expect these discussions to become obsolete with PowerApps Portals from now on in contrast to Dynamics 365 Portals ([see licensing blog post for reference](https://tinorabe.com/post/powerapps-portals-project-ramp-up-provisioning-licensing/)) - we'll see about that.
+
+- - -
+
+Found this post useful or have comments?\
+[Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
+
+
+> Let's have a closer look at project management specifics for  Portals projects in the next blog post - stay tuned.
