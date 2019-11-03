@@ -39,7 +39,7 @@ Almost in every project, the ALM setup strategy led to some discussion in the be
 
 Now let's deep dive into each pillar of the setup:
 
-1. **Sandbox:** Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment.
+1. **Sandbox:** Use a dedicated sandbox instance to explore the framework features **for yourself being the ISV**. Not only explore them, but test them until you break them (from a technical or from a requirements perspective). Use such sandbox to build confidence and become an expert for certain areas/features of the framework. A dedicated sandbox is also great to conduct proof of concepts (PoCs) before delivering requirements in the DEV environment. At any point consider to push a customizations or even a copy from your DEV environment to Sadbox, to have a more realistic base for your PoCs.
 
 2. **DEV**: Typically, this is where the requirements are delivered. Once a requirement is delivered, a unit test along some regression testing shall be executed by the implementing team in this environment.
 
