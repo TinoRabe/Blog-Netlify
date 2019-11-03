@@ -8,7 +8,7 @@ description: >-
   type. I will share best practices that I have come across based on actual
   experience from customer-facing Portals projects. This post will give pros and
   cons for individual ALM setup strategies. Build knowledge to reflect, consult
-  and decide on the ALM setup today to drive a professional Portals projects.
+  and decide on the ALM setup today to drive a professional Portals projects. 
 image: /img/alm.jpg
 ---
 > tl;dr
@@ -20,6 +20,10 @@ image: /img/alm.jpg
 **(3)** Best practice: Try to avoid a single-portal approach
 
 **(4)** Best practice: Have your ALM setup strategy in place before the actual requirements delivery starts
+
+> Preamble
+
+This is my personal take on a resilient ALM setup strategy. Still, there are many opinions about this out there, so hopefully you can take some benefits out of it for your personal ALM setup strategy. This post will not discuss about the technical setup of an ALM setup. Please look at it from a strategic point of view and than choose your favourite tools and system setups to support that strategy.
 
 > ALM Setup - Introduction
 
