@@ -53,3 +53,5 @@ Let's look at a ALM setup strategy for SMB businesses, which may not require suc
 2. **PROD (Production)**: Once all your deliveries have been accepted by the customer, you deploy from DEV to PROD. Form what I have seen, data integrations are rare and if they are needed, they will be performed in PROD directly. This keeps efforts low and feedback loops short. Now you see your solution in action and hopefully, enjoy the ROI (Return of Investment) your solution is giving to your customer over the time :-) You should never make changes to PROD directly. If a bug is identified, you will reproduce it in DEV and also fix it in DEV.
 
 ![ALM setup No Project](/img/alm-no-project.jpg "ALM setup No Project")
+
+Last but not least there is what I call the 'No Project' ALM setup strategy, wich consists of a single instance to do it all. I am sure, everybody knows that this is not a desirable strategy, but I have worked in projects where the customer explicitly agreed to the risks involved and 'dictated' this strategy. I highly recommend you not to go down this path. The customer may argument that another instance
