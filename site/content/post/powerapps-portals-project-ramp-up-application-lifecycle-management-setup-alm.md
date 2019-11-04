@@ -2,7 +2,7 @@
 title: >-
   PowerApps Portals Project Ramp-Up: Application Lifecycle Management Setup
   (ALM)
-date: 2019-11-04T07:00:49.337Z
+date: 2019-11-04T05:00:00.000Z
 description: >-
   Learn how to structure your environment in dependency of the Portals project
   type. I will share best practices that I have come across based on actual
