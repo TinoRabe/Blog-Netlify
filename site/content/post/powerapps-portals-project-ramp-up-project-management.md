@@ -53,4 +53,9 @@ Consider to safeguard team capacity for bug-fixing activities alongside of the r
 
 So you delivered the project with your team to fullest satisfaction. Your developers, testers and customer representatives know the solution inside-out and have got to known the Portals framework deeply. Now the solution will transition to regular operations and the first bug can not only cause catastrophe, but maybe even diminish the acceptance for your solution by the decision makers of your customer. Remember to train support staff. Show them how the solution works and what components are critical to your solution. Give guidance on how to tackle a problem occurring in Portals. They might have not ever heard of Portals and are now in duty of giving support for your solution. Show them the standard means of troubleshooting and give access to your requirements documentation, so they are able to follow up, which of the component is relevant to the problem. Consider to involve them at an earlier project stage, so they can share their requirements for professional maintenance and support in the long run.
 
+- - -
 
+Found this post useful or have comments?\
+[Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
+
+> Let's have a closer look at required skills per role in your Power Apps Portals project - stay tuned.
