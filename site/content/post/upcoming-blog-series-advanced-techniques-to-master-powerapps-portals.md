@@ -19,10 +19,9 @@ Find out, what's in it for you:
 >
 > What you should ask & do before you start the project.
 
-* Portals Provisioning (Template / Licensing)
-* ALM Setup
-* Requirements
-* (Fit-Gap Analysis)
+* Portals Provisioning ([Template](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/) / [Licensing](https://tinorabe.com/post/powerapps-portals-project-ramp-up-provisioning-licensing/))
+* [ALM Setup](https://tinorabe.com/post/powerapps-portals-project-ramp-up-application-lifecycle-management-setup-alm/)
+* Project Management
 * Project Staffing
 
 > Design Principles:
@@ -73,4 +72,4 @@ Find out, what's in it for you:
 * Community: Who, what & where to follow
 * Things I do differently today - Mistake to avoid 
 
-*****
+- - -
