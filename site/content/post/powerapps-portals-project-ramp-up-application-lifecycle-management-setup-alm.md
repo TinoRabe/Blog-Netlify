@@ -50,7 +50,7 @@ Now let's deep dive into each pillar of the scale at enterprise setup:
 Let's look at a ALM setup strategy for SMB businesses, which may not require such a full-blown setup as the project staff might be essentially smaller. This strategy also distinguishes between the ISV and the customer. Key difference is that both share the DEV environment for individual purposes.
 
 1. **DEV (Development)**: Again, this is where your requirements delivery happens, i.e. customization & configuration. Once that has completed and everything is unit tested, the development process will be frozen and no changes will be made in DEV. Now the customer does his testing and training, eventually. This might even be done as a joint effort as project staff may be small, so you help out the customer in testing and training. Helping in training does not necessarily mean that you test your customization on your own, but rather guide the customer and explain the changes, so he can test it right away and give feedback directly. Same goes with training, where you either take the lead in training or you stand aside of the customer to answer questions along the training and/or take feedback from the end users. This ALM setup strategy is working fine for me in the SMB market. It profits from quick response times, quick time to market times and a simplified ALM setup (less environments to handle, less deployment efforts and less people to talk to).
-2. **PROD (Production)**: Once all your deliveries have been accepted by the customer, you deploy from DEV to PROD. Form what I have seen, data integrations are rare and if they are needed, they will be performed in PROD directly. This keeps efforts low and feedback loops short. Now you see your solution in action and hopefully, enjoy the ROI (Return of Investment) your solution is giving to your customer over the time :-) You should never make changes to PROD directly. If a bug is identified, you will reproduce it in DEV and also fix it in DEV.
+2. **PROD (Production)**: Once all your deliveries have been accepted by the customer, you deploy from DEV to PROD. Form what I have seen, data integrations are rare and if they are needed, they will be performed in PROD directly. This keeps efforts low and feedback loops short. Now you see your solution in action and hopefully, enjoy the ROI (Return of Investment) your solution is giving to your customer over the time :-) You should never make changes to PROD directly. If a bug is identified, you will reproduce it in DEV and also fix it in DEV. 
 
 ![ALM setup No Project](/img/alm-no-project.jpg "ALM setup No Project")
 
@@ -60,6 +60,5 @@ Last but not least there is what I call the 'No Project' ALM setup strategy, wic
 
 Found this post useful or have comments?\
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
-
 
 > Let's have a closer look at project management specifics for  Portals projects in the next blog post - stay tuned.
