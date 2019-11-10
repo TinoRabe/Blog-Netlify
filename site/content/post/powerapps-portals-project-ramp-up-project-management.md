@@ -41,3 +41,11 @@ Traceability of requirements, decisions and solution components is key to a robu
 
 Try to find a way to coordinate with the deployment processes of other project areas. Potentially, the core project deployments will consist of CDS schema. Chances are high that your deployments may only consist of Portals configuration, which is CDS data - so your regular schema deployment process may not be able to deploy your latest and greatest features. Keep a tight and regular communication to those who are in charge of the deployment process and inform about the specialties of your Portals solutions. Maybe even consider to have a dedicated deployment pipeline just for your Portals project.
 
+> Training
+
+As mentioned, specific Portals training will greatly reduce friction in your Portals projects. Your developers, which may have a more traditional Dynamics 365 background, will benefit from knowledge about how the Portals framework is doing its job. Clear all the question marks beforehand, maybe before each development iteration. For instance, teach them where JavaScript shall be injected and how it is supported with data by Liquid on your Web Page. Also consider to train your test team at an early stage, so they can test at full pace once deployment is done. It can be frustrating to you and to them, if they don't know how to login to your Portal or why processes look different to those in your model driven app on CDS.
+
+> Bug-Fixing
+
+Consider to safeguard team capacity for bug-fixing activities alongside of the regular requirements delivery. I have seen project phases where a single bug caused so much effort that planned deployments had to be postponed. This often happened where developers shared work across project areas and their skills were scarce among the whole project.
+
