@@ -68,8 +68,6 @@ Remarks:
 * Nick Doelman ([Twitter](https://twitter.com/readyxrm))
 * Jukkan Niiranen ([Twitter](https://twitter.com/jukkan))
 
-
-
 - - -
 
 Found this post useful or have comments?\
