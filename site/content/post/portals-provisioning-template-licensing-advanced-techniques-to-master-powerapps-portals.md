@@ -30,7 +30,7 @@ If you do not have such a Dynamics 365 license in your Power Platform tenant, yo
 
 The following illustration shall help you to navigate through your options:
 
-![Overview of Access to Templates for PowerApps Portals](/img/overview_portals-templates.jpg "Overview of Access to Templates for PowerApps Portals")
+![Overview of Access to Templates for PowerApps Portals](/img/template.jpg "Overview of Access to Templates for PowerApps Portals")
 
 Let's assume you want to leverage a template, so you may choose from one of the following:
 
@@ -64,6 +64,5 @@ In my experience, the Partner Portal can look like an excellent template in sale
 
 Found this post useful or have comments?\
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
-
 
 > Let's have a closer look at the licensing of Portals in the next blog post - stay tuned.
