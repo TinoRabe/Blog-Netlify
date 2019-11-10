@@ -39,5 +39,5 @@ Traceability of requirements, decisions and solution components is key to a robu
 
 > Deployment
 
-Try to find a way to collaborate on 
+Try to find a way to coordinate with the deployment processes of other project areas. Potentially, the core project deployments will consist of CDS schema. Chances are high that your deployments may only consist of Portals configuration, which is CDS data - so your regular schema deployment process may not be able to deploy your latest and greatest features. Keep a tight and regular communication to those who are in charge of the deployment process and inform about the specialties of your Portals solutions. Maybe even consider to have a dedicated deployment pipeline just for your Portals project.
 
