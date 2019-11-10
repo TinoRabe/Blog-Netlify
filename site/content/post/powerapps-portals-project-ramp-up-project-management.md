@@ -1,6 +1,6 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Project Management'
-date: 2019-11-11T19:00:00.000Z
+date: 2019-11-10T20:00:00.000Z
 description: >-
   Power Apps Portals projects have their specifics when it comes to project
   management. Read this blog post and learn from my best practices that shall be
