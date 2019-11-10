@@ -49,3 +49,7 @@ As mentioned, specific Portals training will greatly reduce friction in your Por
 
 Consider to safeguard team capacity for bug-fixing activities alongside of the regular requirements delivery. I have seen project phases where a single bug caused so much effort that planned deployments had to be postponed. This often happened where developers shared work across project areas and their skills were scarce among the whole project.
 
+> Maintenance
+
+So you delivered the project with your team to fullest satisfaction. Your developers, testers and customer representatives know the solution inside-out and have got to known the Portals framework deeply. Now the solution will transition to regular operations and the first bug can not only cause catastrophe, but maybe even diminish the acceptance for your solution by the decision makers of your customer. Do not forget to train the support of your customer. Show them how the solution works and what components are critical to your solution. Give guidance on how to tackle a problem occurring in Portals. They might have not ever heard of Portals and are now in duty of giving support for your solution. Show them the standard means of troubleshooting and give access to your requirements documentation, so they are able to follow up, which of the component is relevant to the problem.
+
