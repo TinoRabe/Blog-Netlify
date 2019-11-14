@@ -35,7 +35,7 @@ The technical requirement specification defines how the desired value is realize
 Consider targets as the motivation or the guidance in your functional requirements specification. Those shall describe he ROI (Return of Investment) and why this is relevant to the solution. Adding this to our exemplary user story could be something like: 'Leveraging an existing Microsoft account as primary login improves usability and reduces administration/training efforts in comparison to local login'.
 
 **Non Targets:**\
-The non-targets shall not describe the negation of the formulated target, but rather the limits of the targets.
+The non-targets shall not describe the negation of the formulated target, but rather the limits of the targets. It will help the reader to further understand the core of the target. A non-target could also describe under which conditions the ROI is **not** met.
 
 - - -
 
