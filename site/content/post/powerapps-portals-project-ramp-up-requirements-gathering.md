@@ -45,7 +45,7 @@ An acceptance criteria is usually formulated within the test case. It describes 
 [Expected result: User is redirected to Azure AD B2C login page & the Azure AD B2C login page shows or company logo]
 
 - Step: Enter Microsoft test account 'ABC-123' and submit
-[Expected result: User is redirected Portal and is signed in without further action; n the upper right hand corner, the username 'ABC-123' is displayed]
+[Expected result: User is redirected Portal and is signed in without further action; in the upper right hand corner, the username 'ABC-123' is displayed]
 
 ** Quality Gates: **\
 This certainly is not a must have, but best practice. A quality gate defines the availability of a critical building block of your solution, especially as it can have a depedency to subsequent building blocks. In our example this could be 'External authentication working and tested as expected'.
