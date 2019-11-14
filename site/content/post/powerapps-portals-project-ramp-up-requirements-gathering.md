@@ -24,6 +24,10 @@ description: >-
 
 ![Scope](/img/requirements_scope.jpg "Scope")
 
+The scope of your Power Apps Portals project define what and how requirements will be delivered. It will also give reference on how success is defined and what acceptance means.
+The first pillar of a resilient scope management practice is to think about your requirements from a functional point of view. Those requirements are typically formulated together with the business stakeholders. Functional requirements shall describe what value is added to the solution. It could be something like 'As a Portal user, I want to login with my existing Microsoft account so I do not have to remember a separate pair of credentials exclusively to the Portal'.
+
+The technical requirement specification defines how the anticipated value is realized from a system point of view. Those technical requirements can be documented and tested by test cases separately. In my experience, it is sufficient to make the technical requirement a part of the functional one, e.g. by splitting the user story into a functional and a technical part.
 - - -
 
 Found this post useful or have comments?\
