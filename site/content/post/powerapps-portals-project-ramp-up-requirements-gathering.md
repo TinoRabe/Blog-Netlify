@@ -20,8 +20,7 @@ description: >-
 
 **(6)** Localization
 
-> Scope
-
+> Scope 
 ![Scope](/img/requirements_scope.jpg "Scope")
 
 **Functional:**\
