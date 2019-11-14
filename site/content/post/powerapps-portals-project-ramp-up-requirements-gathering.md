@@ -35,7 +35,15 @@ The technical requirement specification defines how the desired value is realize
 Consider targets as the motivation or the guidance in your functional requirements specification. Those shall describe he ROI (Return of Investment) and why this is relevant to the solution. Adding this to our exemplary user story could be something like: 'Leveraging an existing Microsoft account as primary login improves usability and reduces administration/training efforts in comparison to local login'.
 
 **Non-Targets:**\
-The non-targets shall not describe the negation of the formulated target, but rather the limits of the targets. It will help the reader to further understand the core of the target. A non-target could also describe the conditions to not meet the ROI. Take this example in our user story: 'Leveraging identity providers other than Microsoft is not required as 80% of our users have a Microsoft account'.
+The non-targets shall not describe the negation of the formulated target, but rather the limits of the targets. It will help the reader to further understand the core of the target. A non-target could also describe the conditions to not meet the ROI. Take this example in our user story: 'Leveraging identity providers other than Microsoft is not required as 90% of our users have a Microsoft account'.
+
+**Acceptance Criteria**\
+An acceptance criteria is usually formulated within the test case. It describes the expected result out of a defined action. Consider this to be a crucial point in your requirements gathering process as it will define how your solution artifacts are accepted by the customer. From customer side, they can be used to describe the critical conditions under a functionality is considered to be functional at its core. An example for our user story could be:\
+- Step: Open the Portal URL and navigate to the Sign In page
+[Expected result: A dedicated button 'Microsoft' is shown in the area 'External login']
+
+- Step: Click on the button 'Microsoft'
+[Expected result: User is redirected to login with Microsoft account]
 
 - - -
 
