@@ -14,11 +14,9 @@ description: >-
 
 **(3)** Accessibility
 
-**(4)** Best practice: Start with Community Portal template
+**(4)** Fit-Gap Analysis
 
-**(5)** Fit-Gap Analysis
-
-**(6)** Localization
+**(5)** Localization
 
 > Scope 
 > ![Scope](/img/requirements_scope.jpg "Scope")
