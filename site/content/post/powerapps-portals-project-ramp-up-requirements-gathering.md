@@ -22,6 +22,8 @@ description: >-
 
 > Scope
 
+![Scope](/img/requirements_scope.jpg "Scope")
+
 - - -
 
 Found this post useful or have comments?\
