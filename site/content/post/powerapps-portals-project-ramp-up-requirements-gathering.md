@@ -21,7 +21,7 @@ description: >-
 **(6)** Localization
 
 > Scope 
-![Scope](/img/requirements_scope.jpg "Scope")
+> ![Scope](/img/requirements_scope.jpg "Scope")
 
 **Functional:**\
 The scope of your Power Apps Portals project define what and how requirements will be delivered. It will also give reference on how success is defined and what acceptance means.
@@ -36,19 +36,18 @@ Consider targets as the motivation or the guidance in your functional requiremen
 **Non-Targets:**\
 The non-targets shall not describe the negation of the formulated target, but rather the limits of the targets. It will help the reader to further understand the core of the target. A non-target could also describe the conditions to not meet the ROI. Take this example in our user story: 'Leveraging identity providers other than Microsoft is not required as 90% of our users have a Microsoft account'.
 
-**Acceptance Criteria: **\
-An acceptance criteria is usually formulated within the test case. It describes the expected result out of a defined action. Consider this to be a crucial point in your requirements gathering process as it will define how your solution artifacts are accepted by the customer. From customer side, they can be used to describe the critical conditions under a functionality is considered to be functional at its core. An example for our user story could be:\
-- Step: Open the Portal URL and navigate to the Sign In page
-[Expected result: In the upper right hand corner, 'Sign In' is displayed; a dedicated button 'Microsoft' is shown in the area 'External login']
+This is what our exemplary user story could like by now:
 
-- Step: Click on the button 'Microsoft'
-[Expected result: User is redirected to Azure AD B2C login page & the Azure AD B2C login page shows or company logo]
+![User Story](/img/requirements_userstory.jpg "User Story")
 
-- Step: Enter Microsoft test account 'ABC-123' and submit
-[Expected result: User is redirected Portal and is signed in without further action; in the upper right hand corner, the username 'ABC-123' is displayed]
+**Acceptance Criteria:** \
+An acceptance criteria is usually formulated within the test case. It describes the expected result out of a defined action. Consider this to be a crucial point in your requirements gathering process as it will define how your solution artifacts are accepted by the customer. From customer side, they can be used to describe the critical conditions under a functionality is considered to be functional at its core. An example test case for our user story could be:
 
-** Quality Gates: **\
+![Test Case](/img/requirements_testcase.jpg "Test Case")
+
+ **Quality Gates:** \
 This certainly is not a must have, but best practice. A quality gate defines the availability of a critical building block of your solution, especially as it can have a depedency to subsequent building blocks. In our example this could be 'External authentication working and tested as expected'.
+
 - - -
 
 Found this post useful or have comments?\
