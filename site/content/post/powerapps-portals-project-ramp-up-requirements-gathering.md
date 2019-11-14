@@ -40,11 +40,13 @@ The non-targets shall not describe the negation of the formulated target, but ra
 **Acceptance Criteria**\
 An acceptance criteria is usually formulated within the test case. It describes the expected result out of a defined action. Consider this to be a crucial point in your requirements gathering process as it will define how your solution artifacts are accepted by the customer. From customer side, they can be used to describe the critical conditions under a functionality is considered to be functional at its core. An example for our user story could be:\
 - Step: Open the Portal URL and navigate to the Sign In page
-[Expected result: A dedicated button 'Microsoft' is shown in the area 'External login']
+[Expected result: In the upper right hand corner, 'Sign In' is displayed; a dedicated button 'Microsoft' is shown in the area 'External login']
 
 - Step: Click on the button 'Microsoft'
-[Expected result: User is redirected to login with Microsoft account]
+[Expected result: User is redirected to Azure AD B2C login page & the Azure AD B2C login page shows or company logo]
 
+- Step: Enter Microsoft test account 'ABC-123' and submit
+[Expected result: User is redirected Portal and is signed in without further action; n the upper right hand corner, the username 'ABC-123' is displayed]
 - - -
 
 Found this post useful or have comments?\
