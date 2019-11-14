@@ -3,8 +3,8 @@ title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering'
 date: 2019-11-18T18:00:43.148Z
 description: >-
   This post will give insights on requirements, which are specific to Power Apps
-  Portals. Use this compilation in your requirements gathering process before
-  the project starts and during project delivery.
+  Portals. Use this compilation of best practices in your requirements gathering
+  process before the project starts and during project delivery.
 ---
 > Areas of specific Requirements Gathering
 
@@ -36,7 +36,7 @@ Consider targets as the motivation or the guidance in your functional requiremen
 **Non-Targets:**\
 The non-targets shall not describe the negation of the formulated target, but rather the limits of the targets. It will help the reader to further understand the core of the target. A non-target could also describe the conditions to not meet the ROI. Take this example in our user story: 'Leveraging identity providers other than Microsoft is not required as 90% of our users have a Microsoft account'.
 
-This is what our exemplary user story could like by now:
+This is what our exemplary user story could look like by now:
 
 ![User Story](/img/requirements_userstory.jpg "User Story")
 
