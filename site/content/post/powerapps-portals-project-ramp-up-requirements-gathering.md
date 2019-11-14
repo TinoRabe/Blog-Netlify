@@ -6,22 +6,21 @@ description: >-
   Portals. Use this compilation in your requirements gathering process before
   the project starts and during project delivery.
 ---
-> tl;dr
+> Areas of specific Requirements Gathering
 
-**(1)** Recap: If you want to use Portals template, have at least one Dynamics 365 App in your environment
+**(1)** Scope
 
-**(2)** Recap: Templates dictate, which schema & configuration data will be deployed to your environment
+**(2)** User Management
 
-**(3)** Best practice: Choose template wisely - no migration path supported officially
+**(3)** Accessibility
 
 **(4)** Best practice: Start with Community Portal template
 
-**(5)** Best Practice: Fit / Gap analysis of features between template & requirements is vital
+**(5)** Fit-Gap Analysis
 
-**(6)** Best Practice: Triple-check applicability of Partner Portal template
+**(6)** Localization
 
-> Requirements Considerations
-
+> Scope
 
 - - -
 
