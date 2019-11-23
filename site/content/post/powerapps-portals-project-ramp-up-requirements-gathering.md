@@ -81,10 +81,16 @@ The last area in user management that I would like to share my best practices on
 
 During the requirements gathering process, it will be useful to put yourself in the shoes of the Portal users. Know your Portal users and tailor your Portal solution specifically to create an effective solution and drive user adoption. 
 
+** Service Consumption **\
 Take this as a bad example for misconceived consumption of a Portal solution:
 The Portal gives rich information via entity lists with useful filtering and searching. Unfortunately, the exposed  lists have more than 20 columns and the majority of users (at least 80%) use the Portal from a mobile browser on their smartphone. Now such wide entity lists can easily become unusable or the filter area becomes to big. Another example are pictures, which are optimized for the desktop client, but do not scale down well enough when accessed on a mobile device. 
 
-Another area of great accessibility is an acceptable color scheme. Maybe the customer requests the adherence to some corporate identity color scheme, which makes content hard to read. Also consider your requirements gathering in terms of color scheme for a guided user experience as well. Have important information to show? Make it standout from the not-so-important information by applying a meaningful colors that will not mislead the Portal user and captures user attention usefully.
+** Color Scheme **\
+Another area of great accessibility is an acceptable color scheme. Maybe the customer requests the adherence to some corporate identity color scheme, which makes content hard to read. Also consider your requirements gathering in terms of color scheme for a guided user experience as well. Have important information to show? Make it standout from the not-so-important information by applying a meaningful colors that will not mislead the Portal user and captures user attention usefully. Also consider font style and font size to present content to the audience in an appropriate manner.
+
+** JavaScript: Browser Support **\
+
+
 - - -
 
 Found this post useful or have comments?\
