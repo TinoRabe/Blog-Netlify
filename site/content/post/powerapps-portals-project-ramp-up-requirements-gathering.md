@@ -99,7 +99,7 @@ So let's look at some best practices on how to identify requirements. You're up 
 * Standard functionality with customization
 * Custom functionality
 
-This can make life easier when it comes to comprehend estimated efforts and also to keep a first class documentation of your solution.
+This can make life easier when it comes to comprehend estimated efforts and also maintains a first class documentation of your solution.
 
  - - -
 
