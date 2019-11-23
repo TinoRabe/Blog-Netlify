@@ -94,7 +94,14 @@ It can be best practice to define the set of browsers you aim to support with yo
 > Fit-Gap Analysis
 > ![Fit-Gap Analysis](/img/requirements_fitgap.jpg "Fit-Gap Analysis")
 
-- - -
+So let's look at some best practices on how to identify requirements. You're up to a good start if you know the Portal functionality very well. And this is template specific, if a template is used. If you leverage the customer self-service template, deep-dive into the template specific Web templates of the solution. If you know all the templates and their unique features, it will be a lot easier to not only choose the right template for your customer needs, but also shape your solution architecturally with out-of-the-box features. Consider to categorize the gathered requirements into three categories:
+* Standard functionality without customization
+* Standard functionality with customization
+* Custom functionality
+
+This can make life easier when it comes to comprehend estimated efforts and also to keep a first class documentation of your solution.
+
+ - - -
 
 Found this post useful or have comments?\
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
