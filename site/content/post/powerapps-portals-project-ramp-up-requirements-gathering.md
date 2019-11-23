@@ -22,7 +22,7 @@ description: >-
 > ![Scope](/img/requirements_scope.jpg "Scope")
 
 **Functional:**\
-The scope of your Power Apps Portals project define what and how requirements will be delivered. It will also give reference on how success is defined and what acceptance means.
+The scope of your Power Apps Portals project defines what and how requirements will be delivered. It will also give reference on how success is defined and what acceptance means.
 The first pillar of a resilient scope management practice is to think about your requirements from a functional point of view. Those requirements are typically formulated together with the business stakeholders. Functional requirements shall describe what value is added to the solution. It could be something like 'As a Portal user, I want to login with my existing Microsoft account so I do not have to remember a separate pair of credentials exclusively to the Portal'.
 
 **Technical:**\
@@ -44,7 +44,21 @@ An acceptance criteria is usually formulated within the test case. It describes 
 ![Test Case](/img/requirements_testcase.jpg "Test Case")
 
  **Quality Gates:** \
-This certainly is not a must have, but best practice. A quality gate defines the availability of a critical building block of your solution, especially as it can have a depedency to subsequent building blocks. In our example this could be 'External authentication working and tested as expected'.
+This certainly is not a must have, but best practice. A quality gate defines the availability of a critical building block of your solution, especially as it can have a dependency to subsequent building blocks. In our example this could be 'External authentication working and tested as expected'.
+
+> User Management
+> ![](/img/requirements_user-management.jpg)
+
+A crucial aspect to an effective solution for the Portal users ist the user-in process. This will likely be the first touch point and therefore the first impression those users will have. From my experience, the customer has a clear picture of which functionality the Portal has to cover. But the user experience from 'click one' is ever so often neglected. This becomes especially true if the Portal aims to be a self-service Portal. Consider the following questions for your requirements gathering:
+- Which method of user registration shall be realized (self registration, prepared invitation, requested invitation, provisioning of credentials upfront, registration via federation with external identity providers)?
+- How will relevant Web Roles be applied (manually, automatically)?
+- What happens after the first successful login, e.g. to which web page will the user directed and which information is exposed/demanded?
+- Once the user has logged in, where and how does he seek for help within the Portal?
+- Is it useful to send a follow up email separately after the first login (e.g. suggest guidance via documentation/help area/demo/videos/etc.)?
+- Who and when shall monitor the completion of open invitations?
+- What is the threshold of failed login attempts and what are the next steps, maybe even automated?
+- Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
+
 
 - - -
 
