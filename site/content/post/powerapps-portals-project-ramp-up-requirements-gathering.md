@@ -64,10 +64,12 @@ Here are some questions for guidance:
 - Who and when shall monitor user accounts that have not logged in for a defined periods of time, e.g. have not logged in for more than 12 months)?
 - Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
 
-The last area in user management that I would like to share my best practices about is the user support. A first class user support can be a game changer and drive user adoption massively. Imagine a self service portal, which is designed to be intuitive, but leaves the majority of users puzzled for some of the core functionalities. Or that they regularly experience bugs/malfunctions in their everyday usage. Hence, here are some questions to drive the requirements gathering:
+The last area in user management that I would like to share my best practices on is the user support. A first class user support can be a game changer and drive user adoption massively. Imagine a self service portal, which is designed to be intuitive, but leaves the majority of users puzzled for some of the core functionalities. Or that they regularly experience bugs/malfunctions in their everyday usage. Hence, here are some questions to drive the requirements gathering:
 - How and where shall the user be able to report bugs/malfunctions? 
 - What does the user experience in the resolution/feedback process look like?
 - Where and how does the user request for help within the Portal?
+- Can it be useful to leverage the forums area to enable user to help each other?
+- Can it be usefult to expose some of the knowledge articles just for Portal usage topics?
 - Can a virtual agent be leveraged to reduce support efforts?
 - How is the effectiveness of the Portal evaluated?
 
