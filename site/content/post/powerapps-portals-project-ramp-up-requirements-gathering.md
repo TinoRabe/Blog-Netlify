@@ -59,6 +59,10 @@ A crucial aspect to an effective solution for the Portal users ist the user-in p
 - What is the threshold of failed login attempts and what are the next steps, maybe even automated?
 - Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
 
+Another area to pay attention to are requirements to the user-out process. This time it is not so much about user experience, but rather important to the management of data quality and integrity.
+Here are some questions for guidance:
+- Shall it be possible to open the possibility to request an user account deactivation/deletion?
+- If an user account is no longer active, what shall happen with assigned records (e.g.open cases or open activities)?
 
 - - -
 
