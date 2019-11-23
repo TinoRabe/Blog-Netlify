@@ -105,7 +105,7 @@ You're up to a good start if you know the Portal functionality very well. And th
 * Standard functionality with customization
 * Custom functionality
 
-This can make life easier when it comes to comprehend estimated efforts and also maintains a first class documentation of your solution. Put yourself in the shoes of the support staff after the project phase. Wouldn't it be nice to know straight away that a buggy feature is relying on standard functionality? That will make troubleshooting so much easier.
+This can make life easier when it comes to comprehend estimated efforts and also maintains a first class documentation of your solution. Put yourself in the shoes of the support staff after the project phase. Wouldn't it be nice to know straight away that a buggy feature is relying on standard functionality? That will make troubleshooting so much easier as reproduction in other (vanilla) environments can be carried out right away.
 
  - - -
 
