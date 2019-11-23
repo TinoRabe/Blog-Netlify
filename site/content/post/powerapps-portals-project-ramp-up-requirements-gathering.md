@@ -53,16 +53,23 @@ A crucial aspect to an effective solution for the Portal users ist the user-in p
 - Which method of user registration shall be realized (self registration, prepared invitation, requested invitation, provisioning of credentials upfront, registration via federation with external identity providers)?
 - How will relevant Web Roles be applied (manually, automatically)?
 - What happens after the first successful login, e.g. to which web page will the user directed and which information is exposed/demanded?
-- Once the user has logged in, where and how does he seek for help within the Portal?
 - Is it useful to send a follow up email separately after the first login (e.g. suggest guidance via documentation/help area/demo/videos/etc.)?
 - Who and when shall monitor the completion of open invitations?
 - What is the threshold of failed login attempts and what are the next steps, maybe even automated?
-- Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
 
 Another area to pay attention to are requirements to the user-out process. This time it is not so much about user experience, but rather important to the management of data quality and integrity.
 Here are some questions for guidance:
 - Shall it be possible to open the possibility to request an user account deactivation/deletion?
 - If an user account is no longer active, what shall happen with assigned records (e.g.open cases or open activities)?
+- Who and when shall monitor user accounts that have not logged in for a defined periods of time, e.g. have not logged in for more than 12 months)?
+- Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
+
+The last area in user management that I would like to share my best practices about is the user support. A first class user support can be a game changer and drive user adoption massively. Imagine a self service portal, which is designed to be intuitive, but leaves the majority of users puzzled for some of the core functionalities. Or that they regularly experience bugs/malfunctions in their everyday usage. Hence, here are some questions to drive the requirements gathering:
+- How and where shall the user be able to report bugs/malfunctions? 
+- What does the user experience in the resolution/feedback process look like?
+- Where and how does the user request for help within the Portal?
+- Can a virtual agent be leveraged to reduce support efforts?
+- How is the effectiveness of the Portal evaluated?
 
 - - -
 
