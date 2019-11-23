@@ -50,29 +50,41 @@ This certainly is not a must have, but best practice. A quality gate defines the
 > ![](/img/requirements_user-management.jpg)
 
 A crucial aspect to an effective solution for the Portal users ist the user-in process. This will likely be the first touch point and therefore the first impression those users will have. From my experience, the customer has a clear picture of which functionality the Portal has to cover. But the user experience from 'click one' is ever so often neglected. This becomes especially true if the Portal aims to be a self-service Portal. Consider the following questions for your requirements gathering:
-- Which method of user registration shall be realized (self registration, prepared invitation, requested invitation, provisioning of credentials upfront, registration via federation with external identity providers)?
-- How will relevant Web Roles be applied (manually, automatically)?
-- What happens after the first successful login, e.g. to which web page will the user directed and which information is exposed/demanded?
-- Is it useful to send a follow up email separately after the first login (e.g. suggest guidance via documentation/help area/demo/videos/etc.)?
-- Who and when shall monitor the completion of open invitations?
-- What is the threshold of failed login attempts and what are the next steps, maybe even automated?
+
+* Which method of user registration shall be realized (self registration, prepared invitation, requested invitation, provisioning of credentials upfront, registration via federation with external identity providers)?
+* How will relevant Web Roles be applied (manually, automatically)?
+* What happens after the first successful login, e.g. to which web page will the user directed and which information is exposed/demanded?
+* Is it useful to send a follow up email separately after the first login (e.g. suggest guidance via documentation/help area/demo/videos/etc.)?
+* Who and when shall monitor the completion of open invitations?
+* What is the threshold of failed login attempts and what are the next steps, maybe even automated?
 
 Another area to pay attention to are requirements to the user-out process. This time it is not so much about user experience, but rather important to the management of data quality and integrity.
 Here are some questions for guidance:
-- Shall it be possible to open the possibility to request an user account deactivation/deletion?
-- If an user account is no longer active, what shall happen with assigned records (e.g.open cases or open activities)?
-- Who and when shall monitor user accounts that have not logged in for a defined periods of time, e.g. have not logged in for more than 12 months)?
-- Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
+
+* Shall it be possible to open the possibility to request an user account deactivation/deletion?
+* If an user account is no longer active, what shall happen with assigned records (e.g.open cases or open activities)?
+* Who and when shall monitor user accounts that have not logged in for a defined periods of time, e.g. have not logged in for more than 12 months)?
+* Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
 
 The last area in user management that I would like to share my best practices on is the user support. A first class user support can be a game changer and drive user adoption massively. Imagine a self service portal, which is designed to be intuitive, but leaves the majority of users puzzled for some of the core functionalities. Or that they regularly experience bugs/malfunctions in their everyday usage. Hence, here are some questions to drive the requirements gathering:
-- How and where shall the user be able to report bugs/malfunctions? 
-- What does the user experience in the resolution/feedback process look like?
-- Where and how does the user request for help within the Portal?
-- Can it be useful to leverage the forums area to enable user to help each other?
-- Can it be usefult to expose some of the knowledge articles just for Portal usage topics?
-- Can a virtual agent be leveraged to reduce support efforts?
-- How is the effectiveness of the Portal evaluated?
 
+* How and where shall the user be able to report bugs/malfunctions? 
+* What does the user experience in the resolution/feedback process look like?
+* Where and how does the user request for help within the Portal?
+* Can it be useful to leverage the forums area to enable user to help each other?
+* Can it be useful to expose some of the knowledge articles just for Portal usage topics?
+* Can a virtual agent be leveraged to reduce support efforts?
+* How is the effectiveness of the Portal evaluated?
+
+> Accessibility
+> ![Accessibility](/img/requirements_accessibility.jpg "Accessibility")
+
+During the requirements gathering process, it will be useful to put yourself in the shoes of the Portal users. Know your Portal users and tailor your Portal solution specifically to create an effective solution and drive user adoption. 
+
+Take this as a bad example for misconceived consumption of a Portal solution:
+The Portal gives rich information via entity lists with useful filtering and searching. Unfortunately, the exposed  lists have more than 20 columns and the majority of users (at least 80%) use the Portal from a mobile browser on their smartphone. Now such wide entity lists can easily become unusable or the filter area becomes to big. Another example are pictures, which are optimized for the desktop client, but do not scale down well enough when accessed on a mobile device. 
+
+Another area of great accessibility is an acceptable color scheme. Maybe the customer requests the adherence to some corporate identity color scheme, which makes content hard to read. Also consider your requirements gathering in terms of color scheme for a guided user experience as well. Have important information to show? Make it standout from the not-so-important information by applying a meaningful colors that will not mislead the Portal user and captures user attention usefully.
 - - -
 
 Found this post useful or have comments?\
