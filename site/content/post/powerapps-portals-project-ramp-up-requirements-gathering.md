@@ -1,5 +1,5 @@
 ---
-title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering'
+title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering (Scope)'
 date: 2019-11-24T18:00:43.148Z
 description: >-
   This post will give insights on requirements, which are specific to Power Apps
