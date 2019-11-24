@@ -7,8 +7,6 @@ description: >-
   best practices in your requirements gathering process before the project
   starts and during project delivery.
 ---
-> Areas of specific Requirements Gathering
-
 > User Management
 > ![](/img/requirements_user-management.jpg)
 
