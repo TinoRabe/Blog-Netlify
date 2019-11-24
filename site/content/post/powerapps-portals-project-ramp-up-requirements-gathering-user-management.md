@@ -12,7 +12,7 @@ description: >-
 > User Management
 > ![](/img/requirements_user-management.jpg)
 
- **User-In** \
+**User-In** \
 A crucial aspect to an effective solution for the Portal users ist the user-in process. This will likely be the first touch point and therefore the first impression those users will have. From my experience, the customer has a clear picture of which functionality the Portal has to cover. But the user experience from 'click one' is ever so often neglected. This becomes especially true if the Portal aims to be a self-service Portal. Consider the following questions for your requirements gathering:
 
 * Which method of user registration shall be realized (self registration, prepared invitation, requested invitation, provisioning of credentials upfront, registration via federation with external identity providers)?
@@ -22,7 +22,7 @@ A crucial aspect to an effective solution for the Portal users ist the user-in p
 * Who and when shall monitor the completion of open invitations?
 * What is the threshold of failed login attempts and what are the next steps, maybe even automated?
 
- **User-Out** \
+**User-Out** \
 Another area to pay attention to are requirements to the user-out process. This time it is not so much about user experience, but rather important to the management of data quality and integrity.
 Here are some questions for guidance:
 
@@ -31,7 +31,7 @@ Here are some questions for guidance:
 * Who and when shall monitor user accounts that have not logged in for a defined periods of time, e.g. have not logged in for more than 12 months)?
 * Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
 
- **User Management** \
+**User Management** \
 The last area in user management that I would like to share my best practices on is the user support. A first class user support can be a game changer and drive user adoption massively. Imagine a self service portal, which is designed to be intuitive, but leaves the majority of users puzzled for some of the core functionalities. Or that they regularly experience bugs/malfunctions in their everyday usage. Hence, here are some questions to drive the requirements gathering:
 
 * How and where shall the user be able to report bugs/malfunctions? 
