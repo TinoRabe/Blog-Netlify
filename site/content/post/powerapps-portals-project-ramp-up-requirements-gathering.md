@@ -35,19 +35,6 @@ An acceptance criteria is usually formulated within the test case. It describes 
  **Quality Gates:** \
 This certainly is not a must have, but best practice. A quality gate defines the availability of a critical building block of your solution, especially as it can have a dependency to subsequent building blocks. In our example this could be 'External authentication working and tested as expected'.
 
-> Fit-Gap Analysis
-> ![Fit-Gap Analysis](/img/requirements_fitgap.jpg "Fit-Gap Analysis")
-
-So let's look at some best practices on how to identify requirements and considerations on how to document them. 
-
- **Portals Standard vs. Requirements**  \
-You're up to a good start if you know the Portal functionality very well. And this is template specific, if a template is used. If you leverage the customer self-service template, deep-dive into the template specific Web templates of the solution. If you know all the templates and their unique features, it will be a lot easier to not only choose the right template for your customer needs, but also shape your solution architecturally with out-of-the-box features. Consider to categorize the gathered requirements into at least three categories:
-
-* Standard functionality without customization
-* Standard functionality with customization
-* Custom functionality
-
-This can make life easier when it comes to comprehend estimated efforts and also maintains a first class documentation of your solution. Put yourself in the shoes of the support staff after the project phase. Wouldn't it be nice to know straight away that a buggy feature is relying on standard functionality? That will make troubleshooting so much easier as reproduction in other (vanilla) environments can be carried out right away.
 
 - - -
 
