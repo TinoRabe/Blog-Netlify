@@ -7,9 +7,6 @@ description: >-
   your requirements gathering process before the project starts and during
   project delivery.
 ---
-> Areas of specific Requirements Gathering
-
-
 > Scope 
 > ![Scope](/img/requirements_scope.jpg "Scope")
 
