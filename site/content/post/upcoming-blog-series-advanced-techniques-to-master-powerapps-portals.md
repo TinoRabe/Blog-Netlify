@@ -1,5 +1,7 @@
 ---
-title: 'Upcoming Blog Series: Advanced Techniques to master PowerApps Portals'
+title: >-
+  Upcoming Blog Series: Advanced techniques & best practices to master Power
+  Apps Portals projects
 date: 2019-10-25T06:00:00.000Z
 description: >-
   Follow this blog for a dedicated series on best practices to advance your
@@ -22,6 +24,10 @@ Find out, what's in it for you:
 * Portals Provisioning ([Template](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/) / [Licensing](https://tinorabe.com/post/powerapps-portals-project-ramp-up-provisioning-licensing/))
 * [ALM Setup](https://tinorabe.com/post/powerapps-portals-project-ramp-up-application-lifecycle-management-setup-alm/)
 * [Project Management](https://tinorabe.com/post/powerapps-portals-project-ramp-up-project-management/)
+* Requirements Gathering: Scope
+* Requirements Gathering: User Management
+* Requirements Gathering: Accessibility
+* Requirements Gathering: Fit-Gap Analysis
 * Project Staffing
 
 > Design Principles:
