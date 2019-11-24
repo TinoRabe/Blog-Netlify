@@ -28,6 +28,7 @@ Find out, what's in it for you:
 * Requirements Gathering: User Management
 * Requirements Gathering: Accessibility
 * Requirements Gathering: Fit-Gap Analysis
+* Requirements Gathering: Localization
 * Project Staffing
 
 > Design Principles:
