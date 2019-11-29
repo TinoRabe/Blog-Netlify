@@ -24,7 +24,7 @@ Find out, what's in it for you:
 * Portals Provisioning ([Template](https://tinorabe.com/post/portals-provisioning-template-licensing-advanced-techniques-to-master-powerapps-portals/) / [Licensing](https://tinorabe.com/post/powerapps-portals-project-ramp-up-provisioning-licensing/))
 * [ALM Setup](https://tinorabe.com/post/powerapps-portals-project-ramp-up-application-lifecycle-management-setup-alm/)
 * [Project Management](https://tinorabe.com/post/powerapps-portals-project-ramp-up-project-management/)
-* Requirements Gathering (Scope / User Management / Accessibility / Fit-Gap Analysis / Localization)
+* Requirements Gathering ([Scope](https://tinorabe.com/post/powerapps-portals-project-ramp-up-requirements-gathering/) / User Management / Accessibility / Fit-Gap Analysis / Localization)
 * Project Staffing
 
 > Design Principles:
