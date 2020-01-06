@@ -1,9 +1,9 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering (Fit-Gap Analysis)'
-date: 2019-12-16T18:00:00.000Z
+date: 2020-01-20T18:00:00.000Z
 description: >-
   This post will give insights on requirements documentation and scope, which
-  are specific to Power Apps Portals. Use this compilation of best practices in
+  are specific to PowerApps Portals. Use this compilation of best practices in
   your requirements gathering process before the project starts and during
   project delivery.
 ---
