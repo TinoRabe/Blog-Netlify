@@ -42,7 +42,7 @@ The last area in user management that I would like to share my best practices on
 
 - - -
 
-Found this post useful or have comments?\
+Found this post useful or have comments? \
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
 
 > Let's have a closer look at best practices for gathering requirements for accessibility in the next blog post - stay tuned.
