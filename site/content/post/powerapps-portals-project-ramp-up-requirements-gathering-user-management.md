@@ -1,6 +1,6 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering (User Management)'
-date: 2020-01-06T18:00:00.000Z
+date: 2020-01-06T06:00:00.000Z
 description: >-
   This post will give insights on requirements gathering for the user
   management, which are specific to PowerApps Portals. Use this compilation of
@@ -42,7 +42,7 @@ The last area in user management that I would like to share my best practices on
 
 - - -
 
-Found this post useful or have comments? \
+Found this post useful or have comments?\
 [Reach out to me anytime.](https://www.linkedin.com/in/tino-rabe-dynamics365/)
 
 > Let's have a closer look at best practices for gathering requirements for accessibility in the next blog post - stay tuned.
