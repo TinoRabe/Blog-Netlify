@@ -1,9 +1,9 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering (User Management)'
-date: 2019-12-02T18:00:00.000Z
+date: 2020-01-06T18:00:00.000Z
 description: >-
   This post will give insights on requirements gathering for the user
-  management, which are specific to Power Apps Portals. Use this compilation of
+  management, which are specific to PowerApps Portals. Use this compilation of
   best practices in your requirements gathering process before the project
   starts and during project delivery.
 ---
@@ -11,7 +11,7 @@ description: >-
 > ![](/img/requirements_user-management.jpg)
 
 **User-In** \
-A crucial aspect to an effective solution for the Portal users ist the user-in process. This will likely be the first touch point and therefore the first impression those users will have. From my experience, the customer has a clear picture of which functionality the Portal has to cover. But the user experience from 'click one' is ever so often neglected. This becomes especially true if the Portal aims to be a self-service Portal. Consider the following questions for your requirements gathering:
+A crucial aspect to an effective solution for the Portal users is the user-in process. This will likely be the first touch point and therefore the first impression those users will have. From my experience, the customer has a clear picture of which functionality the Portal has to cover. But the user experience from 'click one' is ever so often neglected. This becomes especially true if the Portal aims to be a self-service Portal. Consider the following questions for your requirements gathering:
 
 * Which method of user registration shall be realized (self registration, prepared invitation, requested invitation, provisioning of credentials upfront, registration via federation with external identity providers)?
 * How will relevant Web Roles be applied (manually, automatically)?
@@ -29,7 +29,7 @@ Here are some questions for guidance:
 * Who and when shall monitor user accounts that have not logged in for a defined periods of time, e.g. have not logged in for more than 12 months)?
 * Is it necessary to leverage the functionality to have users locked out after a certain attempt of failed logins?
 
-**User Management** \
+**User Support**\
 The last area in user management that I would like to share my best practices on is the user support. A first class user support can be a game changer and drive user adoption massively. Imagine a self service portal, which is designed to be intuitive, but leaves the majority of users puzzled for some of the core functionalities. Or that they regularly experience bugs/malfunctions in their everyday usage. Hence, here are some questions to drive the requirements gathering:
 
 * How and where shall the user be able to report bugs/malfunctions? 
