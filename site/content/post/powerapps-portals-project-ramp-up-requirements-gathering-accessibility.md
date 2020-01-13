@@ -1,6 +1,6 @@
 ---
 title: 'PowerApps Portals Project Ramp-Up: Requirements Gathering (Accessibility)'
-date: 2020-01-13T18:00:38.877Z
+date: 2020-01-07T06:00:38.877Z
 description: >-
   This post will give insights on requirements for accessibility, which are
   specific to PowerApps Portals. Use this compilation of best practices in your
